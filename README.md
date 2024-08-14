@@ -1,2 +1,2 @@
 # CODSOFT
-internship task python language
+internship projects
